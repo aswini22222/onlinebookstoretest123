@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BookStorePageSuite">
+    <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/OnlineBookStoreApplicationTest">
+
+        <classes>
+                <class name="RegistrationPageTest"/>
+               <class name="LoginPageTest"/>
+            <class name="SearchPageTest"/>
+            <class name="ShoppingcartpageTest"/>
+
+
+
+        </classes>
+    </test>
+</suite>
